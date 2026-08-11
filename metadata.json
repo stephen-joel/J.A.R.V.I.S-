@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Local-first conversational personal AI assistant with persistent memory, learning, and voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
